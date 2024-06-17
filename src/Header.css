@@ -1,0 +1,12 @@
+.algo{
+    display: flex;
+    justify-content: center;
+    width: inherit;
+}
+.botonR{
+    width: 100%;
+    height: 50px;
+}
+.contG{
+    background-image: url(/pan1.jpg);
+}

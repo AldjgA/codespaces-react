@@ -1,0 +1,6 @@
+.Cuerpo{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(199, 132, 31);
+    align-items: stretch;
+  }
